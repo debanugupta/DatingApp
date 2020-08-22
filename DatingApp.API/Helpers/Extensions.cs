@@ -1,7 +1,7 @@
 using System;
 using Microsoft.AspNetCore.Http;
 
-namespace DatingApp.API.Helper
+namespace DatingApp.API.Helpers
 {
     public static class Extensions
     {
